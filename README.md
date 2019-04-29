@@ -1,5 +1,5 @@
 # Hangman-with-java-applet
-#This is an approach to build a simple Hangman game in java applet 
+This is an approach to build a simple Hangman game in java applet 
 
 
 Main file "HangMan.java" is under progress . I have done only the design there 
